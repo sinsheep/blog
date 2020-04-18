@@ -1,0 +1,93 @@
+---
+title: kernelword2
+date: 2020-01-02 19:10:40
+tags: [English]
+categories: [英语核心单词]
+---
+|单词|意思|
+|-|-|
+|beneath	|	在...下面|
+|beyond	|	超过|
+|campaign	|	运动，游行|
+|candidate	|	候选人|
+|cancel	|	取消|
+|enlarge	|	使变大|
+|entertain	|	娱乐，款待，考虑|
+|enthusiasm	|	热情|
+|passion	|	热情|
+|envious	|	羡慕的|
+|equal	|	相等的|
+|establish	|	建立|
+|construct	|	建造|
+|exchange	|	交换，交流|
+|expand	|	扩展|
+|expend	|	花费|
+|council	|	委员会|
+|create	|	创造|
+|crisis	|	危机|
+|customer	|	顾客|
+|consumer	|	消费者|
+|deceive	|	欺骗|
+|cautious	|	小心谨慎的|
+|celebrate	|	庆祝|
+|capable	|	有能力的|
+|capital	|	首都，资金，大写字母|
+|ceremony	|	典礼|
+|challenge	|	挑战|
+|chance	|	机会，几率|
+|opportunity	|	机会|
+|charge	|	收费，指控，充电，进攻，负责|
+|cigarette	|	香烟|
+|citizen	|	居民|
+|democracy	|	民主|
+|departure	|	离开，出发|
+|develop	|	发展，患病，研发，冲洗|
+|command	|	命令|
+|compare	|	比较，比喻|
+|complain	|	抱怨，投诉|
+|concentrate	|	集中|
+|confidence	|	自信|
+|congratulate	|	祝贺|
+|divorce	|	离婚|
+|document	|	文件；记载|
+|donate	|	捐赠|
+|dramatic	|	戏剧的，显著的|
+|dynamic	|	有活力的|
+|economic	|	经济的|
+|economical	|	节约的|
+|educate	|	教育|
+|cultivate	|	培育|
+|emergency	|	紧急事件|
+|emphasize	|	强调|
+|employer	|	雇主|
+|employee	|	员工|
+|existence	|	存在|
+|include	|	包括|
+|exclude	|	排除|
+|internal	|	内部的|
+|external	|	外部的|
+|curious	|	好奇的|
+|currency	|	货币，流通|
+|damage	|	损害|
+|declare	|	宣布，报税|
+|announce	|	宣布|
+|demonstrate	|	证实，演示|
+|illustrate	|	说明|
+|imply	|	暗示|
+|indicate	|	表明|
+|character	|	性格，特点，角色，字母|
+|personality	|	个性|
+|characteristic	|	特点；特有的|
+|feature	|	特点，五官，做主演|
+|deal	|	处理，交易|
+|decline	|	下降，谢绝|
+|decrease	|	减少|
+|deliver	|	递交，发表，接生|
+|despair	|	绝望|
+|consider	|	考虑|
+|contribute	|	贡献，导致|
+|convince	|	使信服|
+|convenience	|	便利|
+|cooperate	|	合作|
+|consist	|	由...组成|
+

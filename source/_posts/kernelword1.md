@@ -1,0 +1,90 @@
+---
+title: kernelword1
+date: 2020-01-02 19:10:19
+tags: [English]
+categories: [英语核心单词]
+---
+|单词|意思|
+|-|-|
+|abandon	|	放弃，抛弃|
+|abolish	|	废除|
+|adjust	|	调整|
+|adapt	|	适应，改写|
+|adopt	|	采用，收养|
+|absolute	|	绝对的|
+|account	|	账户，描述；解释|
+|abstract	|	抽象的；摘要|
+|acknowledge	|	承认，致谢，告知已收到|
+|accident	|	事故|
+|acquire	|	获得|
+|address	|	地址，演讲，称呼|
+|accuse	|	指控|
+|advocate	|	拥护|
+|aggressive	|	侵略性的，进取的|
+|allow	|	允许|
+|ambition	|	雄心|
+|appeal	|	吸引，呼吁，上诉|
+|appoint	|	任命|
+|appreciate	|	欣赏，感激，增值，领会|
+|abundant	|	丰富的|
+|apply	|	应用，申请|
+|arrange	|	安排|
+|attach	|	系，附属|
+|attack	|	攻击|
+|attempt	|	尝试，努力|
+|attract	|	吸引|
+|audience	|	听众，观众|
+|avoid	|	避免|
+|aware	|	有意识的|
+|awful	|	糟糕的|
+|awkward	|	尴尬的，笨拙的|
+|attribute	|	归因于|
+|balance	|	平衡，余额|
+|bankrupt	|	破产|
+|bare	|	光秃秃的|
+|bargain	|	讨价还价，便宜货|
+|barrier	|	屏障|
+|behalf	|	代表，利益|
+|blank	|	空白的|
+|border	|	边界|
+|able	|	有能力的|
+|disabled	|	残疾的|
+|ability	|	能力|
+|aboard	|	登上，在...上|
+|abroad	|	在国外|
+|present	|	礼物，现在的，出席的，呈现|
+|absent	|	缺席的，缺乏的|
+|access	|	接近；途径|
+|approach	|	接近；途径|
+|company	|	公司，陪伴|
+|accompany	|	陪伴|
+|accomplish	|	完成|
+|achieve	|	实现|
+|accustomed	|	习惯的|
+|adequate	|	足够的|
+|sufficient	|	足够的|
+|affect	|	影响，喜爱|
+|affection	|	喜爱|
+|effect	|	影响|
+|assess	|	评估|
+|evaluate	|	评价|
+|assure	|	向...保证|
+|insure	|	上保险|
+|ensure	|	确保|
+|arise	|	出现|
+|rise	|	上升|
+|raise	|	举起，抚养，筹集|
+|arouse	|	唤起|
+|available	|	可利用的，有空的|
+|advisable	|	合理的|
+|agreeable	|	令人愉快的|
+|award	|	奖励|
+|reward	|	回报|
+|belief	|	信仰|
+|believe	|	相信|
+|behave	|	行为|
+|behavior	|	行为|
+|benefit	|	利益，有利于|
+|beneficial	|	有利的|
+|burst	|	爆发|
+|burden	|	负担 |

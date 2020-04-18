@@ -1,0 +1,93 @@
+---
+title: kernelword5
+date: 2020-01-02 19:11:09
+tags: [English]
+categories: [英语核心单词]
+---
+|单词|意思|
+|-|-|
+|rare	|	稀有的|
+|react	|	反应|
+|active	|	积极的|
+|activity	|	活动|
+|reality	|	现实|
+|realistic	|	现实的|
+|recall	|	回想，召回|
+|reception	|	接待|
+|recommend	|	推荐|
+|recover	|	恢复|
+|recovery	|	恢复|
+|refer	|	参考，涉及|
+|reference	|	参考，引用文献|
+|reflect	|	反映，反射，反省|
+|reform	|	改革|
+|refuse	|	拒绝|
+|reject	|	拒绝|
+|regard	|	认为，尊敬|
+|relate	|	联系|
+|release	|	释放，发行|
+|relevant	|	相关的|
+|reveal	|	揭露|
+|revenge	|	报复|
+|revolve	|	旋转|
+|ridiculous	|	荒谬的|
+|satellite	|	卫星|
+|rocket	|	火箭；快速增长|
+|spacecraft	|	太空船|
+|routine	|	日常惯例|
+|ruin	|	毁灭；遗迹|
+|sacrifice	|	牺牲|
+|select	|	选择|
+|senior	|	高级的，年长的|
+|junior	|	低级的，年幼的|
+|series	|	系列|
+|shelter	|	庇护所；庇护|
+|shortcoming	|	缺点|
+|signal	|	信号|
+|smooth	|	光滑的，顺畅的|
+|social	|	社会的|
+|solitary	|	独自的|
+|sponsor	|	赞助|
+|rely	|	依赖|
+|reliable	|	可靠的|
+|reluctant	|	不情愿的|
+|remind	|	提醒|
+|repair	|	修理|
+|replace	|	代替|
+|represent	|	代表|
+|reputation	|	名誉|
+|reserve	|	预定，保留；保护区|
+|retain	|	保持，聘请|
+|remain	|	保持|
+|residence	|	住所|
+|source	|	来源|
+|resource	|	资源，才略|
+|respect	|	尊重，方面|
+|respective	|	各自的|
+|respond	|	回应|
+|restrain	|	抑制|
+|retail	|	零售|
+|wholesale	|	批发|
+|retire	|	退休|
+|risk	|	风险；冒险|
+|satisfy	|	满足|
+|satisfactory	|	令人满意的|
+|scene	|	景色，场景|
+|scenery	|	风景|
+|schedule	|	时间表；安排|
+|scold	|	责备|
+|scream	|	尖叫|
+|secure	|	安全的|
+|security	|	安全|
+|salary	|	工资|
+|wage	|	工资|
+|serve	|	服务，用作，上菜|
+|service	|	服务|
+|specific	|	特定的|
+|stare	|	凝视|
+|gaze	|	凝视|
+|glance	|	一瞥，扫视|
+|stable	|	稳定的；马厩|
+|steady	|	稳定的|
+|slim	|	瘦的|
+

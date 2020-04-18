@@ -1,0 +1,93 @@
+---
+title: kernelword4
+date: 2020-01-02 19:11:04
+tags: [English]
+categories: [英语核心单词]
+---
+|单词|意思|
+|-|-|
+|marriage	|	婚姻|
+|incredible	|	不可思议的|
+|marvelous	|	不可思议的|
+|manufacture	|	制造|
+|produce	|	生产；农产品|
+|mayor	|	市长|
+|measure	|	测量；措施|
+|mercy	|	仁慈|
+|migrate	|	移居，迁徙|
+|migrant	|	移民者|
+|immigrate	|	移居入境|
+|immigrant	|	移民者|
+|military	|	军事的|
+|ministry	|	部门|
+|minute	|	分钟，会议记录，备忘录|
+|moderate	|	适度的，温和的|
+|moreover	|	另外|
+|preserve	|	保护,保存,腌制,蜜饯|
+|pretend	|	假装|
+|professional	|	专业的|
+|private	|	私人的|
+|progress	|	进步|
+|project	|	工程；计划，投影|
+|promise	|	承诺；诺言，希望|
+|promising	|	有前途的|
+|purchase	|	购买|
+|pursue	|	追求|
+|original	|	原始的|
+|overcome	|	克服|
+|overtake	|	超过，赶上|
+|package	|	包装，一套东西|
+|baggage	|	行李|
+|luggage	|	行李|
+|painful	|	痛苦的|
+|participate	|	参与|
+|particular	|	特别的，挑剔的|
+|passive	|	消极的，被动的|
+|permanent	|	永恒的|
+|possess	|	拥有|
+|postpone	|	延迟|
+|delay	|	推迟|
+|potential	|	潜能；潜在的|
+|mutual	|	共同的|
+|napkin	|	纸巾|
+|necessary	|	必要的|
+|negative	|	否定的；底片|
+|positive	|	积极的，阳性的|
+|optimistic	|	乐观的|
+|pessimistic	|	悲观的|
+|negotiate	|	协商|
+|neighborhood	|	附近地区，街坊|
+|numerous	|	许多的|
+|observe	|	观察,遵守,庆祝,评论|
+|obstacle	|	障碍|
+|obvious	|	明显的|
+|apparent	|	明显的|
+|offend	|	冒犯|
+|earthquake	|	地震|
+|pregnant	|	怀孕的|
+|primary	|	首要的|
+|principal	|	校长，资金；主要的|
+|principle	|	原则|
+|promote	|	促进,促销,升职,升学|
+|boost	|	促进，提高|
+|prosperity	|	繁荣|
+|province	|	省份|
+|publish	|	出版|
+|opponent	|	对手|
+|rival	|	对手|
+|competitor	|	竞争者|
+|figure	|	数字，人物，图形，身材|
+|persist	|	坚持|
+|phenomenon	|	现象|
+|physical	|	体检；身体的，物理的|
+|persuade	|	劝服|
+|singular	|	单数的|
+|plural	|	复数的|
+|poison	|	毒药；毒害|
+|pollute	|	污染|
+|polish	|	磨光，润色|
+|predict	|	预言|
+|practice	|	实践，惯例，练习|
+|pattern	|	模式，图案|
+|pavement	|	人行道|
+
