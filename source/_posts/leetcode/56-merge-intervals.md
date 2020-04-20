@@ -2,7 +2,7 @@
 title: 56-merge-intervals
 date: 2020-04-16 09:53:36
 tags: [sort]
-categories:[leetcode]
+categories: [leetcode]
 ---
 
 ## 合并区间
