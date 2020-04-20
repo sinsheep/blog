@@ -80,11 +80,11 @@ categories: [英语单词]
 | ration | 定量  |
 | competitive/intense job market | 竞争强烈的工作市场  |
 | bid | n.出价 v.出价  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
+| be crazy about | 对什么痴迷  |
+| glance at  | 匆匆一瞥  |
+| throw away | 扔掉  |
+| put down  | 写下  |
+| be suitable for | 适合于  |
 | <++> | <++>  |
 | <++> | <++>  |
 | <++> | <++>  |
