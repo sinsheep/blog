@@ -21,8 +21,7 @@ categories: [英语单词]
 | shorthand | 速写，简称  |
 | absent-minded  | 健忘的  |
 | no longer | 不再  |
-| out of | 由与，用什么材料 , 缺乏... ，从...中(出来离开) |
-| neuron | 神经  |
+| out of | 由与，用什么材料 , 缺乏... ，从...中(出来离开) | | neuron | 神经  |
 | thirst | 渴望,渴的  |
 | skinny | 瘦的 |
 | betrayal | 背叛 |
@@ -85,21 +84,21 @@ categories: [英语单词]
 | throw away | 扔掉  |
 | put down  | 写下  |
 | be suitable for | 适合于  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
+| put through | 接通电话，完成  |
+| be sick/tired of | 厌倦  |
+| look/watch out | 小心  |
+| take advantage of | 利用  |
+| pay a visit to | 访问  |
+| at the sight of |一看见   |
+| cut down | 砍伐  |
+| be responsible for | 对...负责  |
+| be tired from | 因...疲劳  |
+| persist in | 坚持  |
+| be particular about | 对...挑剔  |
+| be skillful at | 对...熟练  |
+| aim at | 目的在于  |
+| give away  | 赠送，泄露  |
+| let down | 使失望  |
 | <++> | <++>  |
 | <++> | <++>  |
 | <++> | <++>  |
