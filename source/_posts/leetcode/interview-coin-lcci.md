@@ -2,7 +2,7 @@
 title: interview-coin-lcci
 date: 2020-04-23 18:32:59
 tags: [dp]
-categories: [leetcode]
+categories: [leetcode,interview]
 ---
 
 ## 硬币
