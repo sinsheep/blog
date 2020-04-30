@@ -103,7 +103,7 @@ categories: [英语单词]
 | flee away  | 逃离  |
 | set down | 指定，记下  |
 | apologize for | 为什么道歉  |
-| <++> | <++>  |
+| up to now | 至今  |
 | <++> | <++>  |
 | <++> | <++>  |
 | <++> | <++>  |
