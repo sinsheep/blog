@@ -104,21 +104,21 @@ categories: [英语单词]
 | up to now | 至今  |
 | vote for | 投...票  |
 | what goes around comes around  | 种瓜得瓜  |
-|  | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
-| <++> | <++>  |
+| get to the heart of | 是什么的核心  |
+| bystander | 旁观者  |
+| Rising above self | 舍己为人  |
+| rather unique | 相当独一无二  |
+| materially | 物质方向  |
+| pitch dark | 很黑  |
+| dimension | 维度  |
+| apart from | 除了  |
+| dish | 碟子，菜  |
+| rocky | 岩石  |
+| column | 论坛,来自  |
+| stationed  | 驻扎  |
+| sorry for myself | 心疼自己  |
+| made friend with | 与什么交朋友  |
+| something big | 大事情(big 放在后面修饰)  |
 | <++> | <++>  |
 | <++> | <++>  |
 | <++> | <++>  |
