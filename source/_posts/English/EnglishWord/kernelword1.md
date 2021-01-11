@@ -19,7 +19,7 @@ categories: [英语核心单词]
 |acquire	|	获得|
 |address	|	地址，演讲，称呼|
 |accuse	|	指控|
-|advocate	|	拥护|
+|作文advocate	|	拥护|
 |aggressive	|	侵略性的，进取的|
 |allow	|	允许|
 |ambition	|	雄心|
